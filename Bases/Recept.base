@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Recept")
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.inFolder("Recept")
+    order:
+      - file.name
+    sort: []
+  - type: table
+    name: katsu

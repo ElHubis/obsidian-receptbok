@@ -1,0 +1,3 @@
+#Nötkött 
+#Gryta #Ris #Bröd 
+

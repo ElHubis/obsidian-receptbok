@@ -1,0 +1,2 @@
+#Fläskkött
+#Gryta #Ris
