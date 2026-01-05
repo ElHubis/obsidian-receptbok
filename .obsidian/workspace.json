@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recept/Pannacotta.md",
+                "file": "Recept/Penne alla Vodka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pannacotta"
+              "title": "Penne alla Vodka"
             }
           }
         ]
@@ -185,30 +185,11 @@
   },
   "active": "d140fa79e30c878b",
   "lastOpenFiles": [
-    "Recept/Beef Wellington.md",
-    "Bases/Recept.base",
-    "Recept/Lax pasta.md",
-    "Recept/Potatissalad.md",
-    "Recept/Teriyaki Kyckling.md",
-    "Recept/Tikki Masala.md",
-    "Recept/Ugnspankaka.md",
-    "Recept/Shepards Pie.md",
-    "Recept/Renskav.md",
-    "Recept/Köttfärsås.md",
-    "Recept/Korvstroganoff.md",
-    "Recept/Katsu curry.md",
-    "Recept/Hamburgare.md",
-    "Recept/Fläsk och Svampgryta.md",
-    "Recept/Chili Con Carne.md",
-    "Recept/Butter Chicken.md",
-    "Recept/Dumplings.md",
-    "Recept/Goulash Soppa.md",
-    "Recept/Insalata de beouff.md",
-    "Recept/Lasagne.md",
-    "Recept/Onigiri.md",
+    "Recept/Pannacotta.md",
+    "Recept/Penne alla Vodka.md",
     "Recept/Panerad kyckling.md",
-    "Recept/Pannbiffar.md",
-    "Recept/Philly Cheesesteak.md",
-    "Recept/Pannacotta.md"
+    "Bases/Recept.base",
+    "Recept/Korean fried chicken.md",
+    "Recept/Beef Wellington.md"
   ]
 }
